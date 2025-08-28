@@ -12,6 +12,8 @@ matplotlib , seaborn
 scikit-learn
 imbalanced-learn 
 xgboost, lightgbm  
+jupyter kernal 
 
 run train.py in terminal then you can get the models result and saved logistic regression you want to save another model by comparing 
 models then change the losgistic regressison with your algorithm name in train.py file at best model name 
+
